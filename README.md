@@ -1,29 +1,42 @@
-# README #
+# README
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+# Alors on Danse (Jetzt fang'm an!)
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+---
 
-### How do I get set up? ###
+### Refrain (instead of *"Alors on danse"*)
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+**"Jetzt fang’ ma an!
+Jetzt fang’ ma an!
+Ja fang’ ma an!
+Am Karl Toldt Weg fang’ ma an!"**
 
-### Contribution guidelines ###
+---
 
-* Writing tests
-* Code review
-* Other guidelines
+### Verse idea (light, school/kids themed)
 
-### Who do I talk to? ###
+*(matches the same short, punchy rhythm of the original verses)*
 
-* Repo owner or admin
-* Other community or team contact
+* In der Früh, wir steh’n schon auf
+* Pausenbrot liegt im Schultaschn-auf
+* Freunde lachen, es geht los
+* Lernen macht uns richtig groß
+
+---
+
+### Build-up (before the refrain)
+
+* Eins, zwei, drei – wir sind bereit
+* Spielen, Singen, voller Freud
+* Laut und fröhlich, Hand in Hand
+* Am Karl Toldt Weg im Schulverband!
+
+---
+
+### Then back to the refrain:
+
+**"Jetzt fang’ ma an!..."**
+
+---
