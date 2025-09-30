@@ -1,4 +1,4 @@
-# 🎶 Jetzt fang’ ma an! – Volksschule Karl Toldt Weg
+# 🎶 Jetzt fang’ ma an! – (Alors On Danse)
 
 ### Intro / Verse 1
 
@@ -73,7 +73,3 @@ Ja fang’ ma an!
 Am Karl Toldt Weg fang’ ma an!**
 
 ---
-
-👉 Damit können die Kids wirklich **im Takt mitsingen** – kurze Betonungen, viele Wiederholungen, leicht mitzubrüllen.
-
-Möchtest du, dass ich dir auch noch ein **Layout für ein Kinder-Songblatt** (z. B. mit großen Refrain-Zeilen, kleiner Comic-Mikrofon-Icon o. Ä.) in LaTeX oder Word bastle, sodass du’s gleich kopieren und verteilen kannst?
