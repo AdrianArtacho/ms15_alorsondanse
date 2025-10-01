@@ -5,6 +5,8 @@
 *(kurze, abgehackte Zeilen – wie im Original)*
 
 In der Früh – der Wecker schreit
+
+
 Aufstehn, los – die Schultasch’ bereit
 Pausenbrot – im Rucksack drin
 Heut am Karl Toldt Weg geht’s hin
