@@ -1,0 +1,3 @@
+[submodule "xml_alors"]
+	path = xml_alors
+	url = https://github.com/AdrianArtacho/xml_alors
