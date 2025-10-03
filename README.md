@@ -2,6 +2,14 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
+---
+
+## Folders
+
+[alors](https://github.com/AdrianArtacho/teach_excerpts/tree/main/scores/alors)
+
+---
+
 # Alors on Danse (Jetzt fang'm an!)
 
 ---
